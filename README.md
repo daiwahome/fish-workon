@@ -7,7 +7,7 @@ A python venv command wrapper which only supports activation.
 With [fisherman]
 
 ```
-fisher daiwahome/venv-workon
+fisher daiwahome/fish-venv-workon
 ```
 
 ## Usage
